@@ -1,31 +1,20 @@
-.topnav {
-    background-color: #dc3546;
-    padding: 10px;
-    overflow: hidden;
+.navbar .barra {
+    background-color: #dc3546 !important;
 }
 
-/* Style the links inside the navigation bar */
-.topnav .barra {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    margin-right: 10px;
-    text-decoration: none;
-    font-size: 17px;
+.navbar-text {
+    font-weight: bold
 }
 
-.topnav .direc:hover {
-    color: black;
-}
-
-.topnav Link.barra {
-    background-color: #04AA6D;
+.navbar a {
     color: white;
 }
 
-.topnav .extrem {
-    display: block;
-    justify-content: end;
-    float: right;
+.imgcuke {
+    width: 30px;
+    height: 30px;
+}
+
+.text {
+    font-weight: bold;
 }

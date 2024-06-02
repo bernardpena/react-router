@@ -1,3 +1,41 @@
-.saludo img {
-    width: 50%;
+.saludo h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+
 }
+
+.saludo span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cukeimagen .img-fluid {
+    display: flex;
+    height: auto;
+    max-width: 40%;
+    margin: 50px auto;
+    vertical-align: middle;
+    align-items: center;
+
+}
+
+/* .saludo .imagen1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 400px;
+} */
+
+/* .cukeimagen .Image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Image {
+    height: 400px;
+} */
